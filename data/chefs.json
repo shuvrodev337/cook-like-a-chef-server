@@ -6,7 +6,7 @@
       "experience": 30,
       "bio": "Massimo Bottura is an Italian chef and restaurateur. He is the owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. Massimo is known for his innovative and avant-garde approach to Italian cuisine, which he calls 'tradition in evolution.'",
       "likes": 10000,
-      "numberof recipes": 4,
+      "numberof_recipes": 4,
       "recipes": [
           { "recipe_name": "Spaghetti alla Carbonara",
           "ingredients": [      "Spaghetti",      "Pancetta",      "Egg yolks",      "Parmigiano-Reggiano cheese",      "Black pepper"    ],
@@ -69,7 +69,7 @@
       "experience": 35,
       "bio": "Carlo Cracco is an Italian chef and television personality. He is the owner of Ristorante Cracco, a two-Michelin-starred restaurant in Milan, Italy. Carlo is known for his creative and contemporary Italian cuisine, which combines traditional ingredients with modern techniques.",
       "likes": 8000,
-      "numberof recipes": 5,
+      "numberof_recipes": 5,
       "recipes": [
           {
               "recipe_name": "Panzanella",
@@ -140,7 +140,7 @@
       "experience": 40,
       "bio": "Nadia Santini is an Italian chef and restaurateur. She is the owner of Dal Pescatore, a three-Michelin-starred restaurant in Canneto sull'Oglio, Italy. Nadia is known for her traditional and rustic Italian cuisine, which she learned from her mother and grandmother.",
       "likes": 6000,
-      "numberof recipes": 3,
+      "numberof_recipes": 3,
       "recipes": [
           {
               "recipe_name": "Lasagna",
@@ -172,7 +172,7 @@
       "experience": 45,
       "bio": "Gualtiero Marchesi was an Italian chef and restaurateur. He was the first Italian chef to be awarded three Michelin stars, and he was known for his innovative and artistic approach to Italian cuisine. Gualtiero passed away in 2017, but his legacy lives on in the world of Italian gastronomy.",
       "likes": 12000,
-      "numberof recipes": 4,
+      "numberof_recipes": 4,
       "recipes": [
           {
               "recipe_name": "Lasagna alla Bolognese",
@@ -211,7 +211,7 @@
       "experience": 25,
       "bio": "Antonio Cannavacciuolo is an Italian chef and television personality. He is the owner of Villa Crespi, a two-Michelin-starred restaurant in Orta San Giulio, Italy. Antonio is known for his modern and creative approach to Italian cuisine, which emphasizes the flavors and traditions of his native region of Campania.",
       "likes": 9000,
-      "numberof recipes": 3,
+      "numberof_recipes": 3,
       "recipes": [
           {
               "recipe_name": "Osso Buco alla Milanese",
@@ -272,7 +272,7 @@
       "experience": 20,
       "bio": "Enrico Crippa is an Italian chef and restaurateur. He is the owner of Piazza Duomo, a three-Michelin-starred restaurant in Alba, Italy. Enrico is known for his innovative and imaginative approach to Italian cuisine, which emphasizes the use of local and seasonal ingredients.",
       "likes": 7000,
-      "numberof recipes": 5,
+      "numberof_recipes": 5,
       "recipes": [
           {
               "recipe_name": "Pasta Carbonara",
